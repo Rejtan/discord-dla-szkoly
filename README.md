@@ -29,4 +29,4 @@ https://discord.new/ZJfttwV8CwnT
 
 
 W razie problemów lub chęci współpracy proszę pisać na:
-dropdata@googlegroups.com
+dropdata@googlegroups.com (proszę o współpracę potrzebuje na chleb)
