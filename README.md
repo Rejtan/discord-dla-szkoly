@@ -20,7 +20,7 @@ https://discord.new/ZJfttwV8CwnT
 
 
 
-###Autorzy:
+**Autorzy:**
 - Kacper Łagosz 
 - Michał Łagosz
 - Kacper Dyląg
