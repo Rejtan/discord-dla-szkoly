@@ -1,4 +1,4 @@
-#Instalacja pod system Linux
+Instalacja pod system Linux
 
 ```sh
 $ git clone https://github.com/Rejtan/discord-dla-szkoly.git
