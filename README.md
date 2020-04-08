@@ -5,6 +5,9 @@
 - Szablon umożliwiający szybkie wystartowanie Discorda (wystarczy zmienić nazwy klas i grup według upodobania)
 
 
+
+
+
 Szablon bazujący na serwerze naszej szkoły który umożliwia przygotować serwer w kilka minut:
 
 
@@ -12,4 +15,3 @@ Szablon bazujący na serwerze naszej szkoły który umożliwia przygotować serw
 lub
 https://discord.new/ZJfttwV8CwnT
 
-To repozytorium zawiera wszystko co może ci ułatwić stworzenie Discorda dla swojej szkoły!
