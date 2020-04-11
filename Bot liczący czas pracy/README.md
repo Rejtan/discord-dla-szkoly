@@ -21,3 +21,21 @@ $ sudo apt install screen
 
 $ screen -S discord-bot node .
 ```
+-------------------------------------------------------------------------------------------------------------------------------
+
+Instalacja pod windowsa
+
+1)pobrać i zainstalować node.js ze strony : https://nodejs.org/en/
+
+2)pobrać zawartośc githuba i wypakować w folderze
+
+3)włączyć cmd w pobranym  folderze (np. trzymając shift kliknąć prawym i otwórz powershell tutaj)
+
+4)```sh
+  cd "Bot liczący czas pracy"
+
+  npm install discord.js
+
+  node index.js```
+
+7) Działa :O 
