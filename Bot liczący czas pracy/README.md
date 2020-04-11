@@ -31,11 +31,13 @@ Instalacja pod windowsa
 
 3)włączyć cmd w pobranym  folderze (np. trzymając shift kliknąć prawym i otwórz powershell tutaj)
 
-4)```sh
+4)
+```sh
   cd "Bot liczący czas pracy"
 
   npm install discord.js
 
-  node index.js```
+  node index.js
+  ```
 
 7) Działa :O 
