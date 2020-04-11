@@ -34,10 +34,13 @@ Instalacja pod windowsa
 4)
 ```sh
   cd "Bot liczący czas pracy"
-
+  
+  npm init             (wpisz dowolna nazwe i dalej przeklikaj enter)
+ 
   npm install discord.js
 
-  node index.js
+  node .
   ```
+W tym momencie bot działa można go dodać za pomocą linku utworzonego tutaj (trzeba wybrać pole administrator):
+[Discord Invite Calculator](https://discordapi.com/permissions.html)
 
-7) Działa :O 
