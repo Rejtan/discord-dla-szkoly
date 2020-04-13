@@ -7,10 +7,6 @@ Jesteśmy grupą młodych entuzjastów którzy pragną poprawić komfort prowadz
 - Szablon umożliwiający szybkie wystartowanie Discorda (wystarczy zmienić nazwy klas i grup według upodobania)
 - Kanał na youtubie z poradnikami [Drama Data YT](https://www.youtube.com/channel/UCeZH0EW1UjjG8-CWcu6OyZg/featured)
 
-Polecany bot muzyczny oparty na javie https://github.com/jagrosh/MusicBot (wymaga prywatnego serwera np.VPS)
-
-
-
 
 
 Szablon bazujący na serwerze naszej szkoły który umożliwia przygotować serwer w kilka minut:
@@ -34,3 +30,5 @@ https://discord.new/ZJfttwV8CwnT
 W razie problemów lub chęci współpracy proszę pisać na:
 dropdata@googlegroups.com 
 (proszę o współpracę potrzebuje na chleb)
+
+Polecany bot muzyczny oparty na javie https://github.com/jagrosh/MusicBot (wymaga prywatnego serwera np.VPS)
