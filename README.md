@@ -5,8 +5,9 @@ Jesteśmy grupą młodych entuzjastów którzy pragną poprawić komfort prowadz
 **Nasze repozytorium posiada:**
 - Bota umożliwiającego rejestrowanie czasu pracy zdalnej nauczycieli (wymaga prywatnego serwera np.VPS)
 - Szablon umożliwiający szybkie wystartowanie Discorda (wystarczy zmienić nazwy klas i grup według upodobania)
-- Polecany bot muzyczny oparty na javie https://github.com/jagrosh/MusicBot (wymaga prywatnego serwera np.VPS)
 - Kanał na youtubie z poradnikami [Drama Data YT](https://www.youtube.com/channel/UCeZH0EW1UjjG8-CWcu6OyZg/featured)
+
+Polecany bot muzyczny oparty na javie https://github.com/jagrosh/MusicBot (wymaga prywatnego serwera np.VPS)
 
 
 
